@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Molli.
-- 👀 I’m interested in graphics design and programming.
-- 🌱 I’m currently learning C#.
-- 💞️ I’m currently collaborating on game projects with my [husband](https://github.com/filune/)!
+## 👋 Hi, I’m Molli!
+- 🖥️ I’m a Technology Foundation Year Programme student! I'm planning to study Media Technology engineering in a year.
+- 🌱 I’m currently studying at the Royal Institute of Technology (KTH).
+- 💞️ I collaborate on game projects with my [husband](https://github.com/filune/)!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L551LSW)
 
