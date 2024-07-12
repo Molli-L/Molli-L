@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Molli-L.
+- 👋 Hi, I’m Molli.
 - 👀 I’m interested in graphics design and programming.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m currently collaborating on game projects with my [husband](https://github.com/filune/)!
