@@ -3,8 +3,6 @@
 - 🌱 I’m currently studying at the Royal Institute of Technology (KTH).
 - 💞️ I collaborate on game projects with my [husband](https://github.com/filune/)!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L551LSW)
-
 I'm also on [ArtStation](https://www.artstation.com/molli)!
 
 <!---
