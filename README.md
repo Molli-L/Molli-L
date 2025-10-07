@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Molli!
-- 🖥️ I’m a Technology Foundation Year Programme student! I'm planning to study Media Technology engineering in a year.
-- 🌱 I’m currently studying at the Royal Institute of Technology (KTH).
+- 🖥️ I’m a ICT Engineering student at KTH. It's equivalent to computer engineering abroad.
+- 🌱 I'm interested in Digital logic design and all kinds of DIY.
 - 💞️ I collaborate on game projects with my [husband](https://github.com/filune/)!
 
 I'm also on [ArtStation](https://www.artstation.com/molli)!
